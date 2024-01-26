@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/literate-pancake/static/css/main.13884597.css",
-    "main.js": "/literate-pancake/static/js/main.de1d3aa1.js",
+    "main.js": "/literate-pancake/static/js/main.e95f93eb.js",
     "index.html": "/literate-pancake/index.html",
     "main.13884597.css.map": "/literate-pancake/static/css/main.13884597.css.map",
-    "main.de1d3aa1.js.map": "/literate-pancake/static/js/main.de1d3aa1.js.map"
+    "main.e95f93eb.js.map": "/literate-pancake/static/js/main.e95f93eb.js.map"
   },
   "entrypoints": [
     "static/css/main.13884597.css",
-    "static/js/main.de1d3aa1.js"
+    "static/js/main.e95f93eb.js"
   ]
 }
