@@ -4,7 +4,7 @@ import Home from './Home';
 import History from './History';
 import Cart from './Cart';
 import Nav from "./Nav"
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   const [dogImage, setDogImage] = useState({ image: '', price: '' });

@@ -1,5 +1,3 @@
-// Cart.js
-
 import React, { useState, useEffect } from 'react';
 
 const Cart = () => {
