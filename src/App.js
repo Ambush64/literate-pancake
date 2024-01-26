@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, useNavigate } from 'react-router-dom';
 import Home from './Home';
 import History from './History';
 import Cart from './Cart';
@@ -8,6 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   const [dogImage, setDogImage] = useState({ image: '', price: '' });
+  const navigate = useNavigate();
 
   const fetchDogImage = async () => {
     try {
@@ -39,6 +40,7 @@ const App = () => {
   };
 
   useEffect(() => {
+    navigate('/cart');
     fetchDogImage();
   }, []);
 
