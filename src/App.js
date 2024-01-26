@@ -40,7 +40,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    navigate('/cart');
+    navigate('/');
     fetchDogImage();
   }, []);
 
