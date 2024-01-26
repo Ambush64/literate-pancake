@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/literate-pancake/static/css/main.13884597.css",
+    "main.js": "/literate-pancake/static/js/main.de1d3aa1.js",
+    "index.html": "/literate-pancake/index.html",
+    "main.13884597.css.map": "/literate-pancake/static/css/main.13884597.css.map",
+    "main.de1d3aa1.js.map": "/literate-pancake/static/js/main.de1d3aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13884597.css",
+    "static/js/main.de1d3aa1.js"
+  ]
+}
